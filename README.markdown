@@ -3,6 +3,7 @@
 ## About ##
 
 redis-lua is a pure Lua client library for the Redis advanced key-value database.
+[Lua Redis code examples with explanations](https://onelinerhub.com/lua-redis).
 
 ## Main features ##
 
